@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas Vindas Ao Meu Perfil 🐊
 
-<!--
-**EMANOEL06/EMANOEL06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME E EMANOEL DE SOUZA OLIVEIRA RODRIGUES
 
-Here are some ideas to get you started:
+- ESTOU ESTUDANDO NA [ALURA](https://cursos.alura.com.br/dashboard) 
+- ESTOU ME DESENVOLVENDO NA LINGUA JAVASCRIPT
+- UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÂO E COMPARTILHANDO DOS MEUS PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### VOCÊ ENTRA EM CONTATO COMIGO 📧
+
+  00001097120922sp@al.educacao.sp.gov.br
+
+
+
+![]( santos-futebol-clube-santos-fc)
+ 
